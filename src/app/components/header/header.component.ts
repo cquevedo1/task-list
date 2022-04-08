@@ -12,4 +12,8 @@ title: string = 'Mi lista de tareas';
   ngOnInit(): void {
   }
 
+  toogleAddTask(){
+    console.log("Hiciste click!")
+  }
+
 }
